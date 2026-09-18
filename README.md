@@ -92,7 +92,7 @@ SENDER_PASSWORD=your_app_password
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/price-comparison-agent.git
+git clone https://github.com/bahaagomaa1/price-comparison-agent.git
 cd price-comparison-agent
 ```
 
