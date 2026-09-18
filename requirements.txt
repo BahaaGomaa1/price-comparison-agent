@@ -1,0 +1,7 @@
+langchain
+langchain-openai
+langchain-tavily
+langgraph
+python-dotenv
+python-telegram-bot
+requests
